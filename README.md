@@ -1,6 +1,7 @@
+<!--
 ### <h1 align="center">Hi 👋, I'm Román</h1>
 <br>
-<!--
+
 **RomanMillan/RomanMillan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,11 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 <h3 align="center">A passionate student full stack developer from Spain</h3>
+-->
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romanmillan&label=Profile%20views&color=0e75b6&style=flat" alt="romanmillan" /> </p>
 -->
+<!--
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romanmillan&margin-w=15&margin-h=15&theme=discord" alt="romanmillan" /></a> </p>
 
