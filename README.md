@@ -38,9 +38,10 @@ Here are some ideas to get you started:
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=romanmillan&show_icons=true&locale=en&layout=compact&theme=dracula" alt="romanmillan" /></p>
 -->
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=romanmillan&theme=bear" alt="romanmillan" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=romanmillan&show_icons=true&locale=en&theme=dracula" alt="romanmillan" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=romanmillan&theme=bear" alt="romanmillan" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=romanmillan&show_icons=true&locale=en&theme=dracula" alt="romanmillan" /></p>
+
 
 
 <!--
